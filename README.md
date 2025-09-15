@@ -3,7 +3,5 @@
 # This is my first repository
 # Author: Tony Eke
 # Let the game begin
-<be>
-This is me again today
-<be>
-Once more, I am here again
+# This is me again today
+# Once more, I am here again
